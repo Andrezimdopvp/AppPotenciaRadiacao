@@ -1,0 +1,40 @@
+#tela
+{
+    background-color: rgb(255, 255, 255);
+}
+#titu
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(74, 73, 73);
+    font-size: 75px;
+}
+button
+{
+    width: 320px;
+    height: 150px;
+    border-radius: 10px;
+    color: cadetblue;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+}
+#raiz
+{
+    width: 400px;
+    display: block;
+}
+#potencia
+{
+    width: 400px;
+    display: block;
+}
+#pao
+{
+    font-size: 42px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+}
+#do
+{
+    width: 1000px;
+}
